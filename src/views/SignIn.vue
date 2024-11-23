@@ -86,15 +86,15 @@
         <div class="row align-items-center justify-content-lg-between">
           <div class="col-12 col-md-6 my-auto">
             <div class="copyright text-center text-sm text-white text-lg-start">
-              © {{ new Date().getFullYear() }}, made with
+              © {{ new Date().getFullYear() }}
               <i class="fa fa-heart" aria-hidden="true"></i> by
               <a
-                href="https://www.creative-tim.com"
+                href="https://www.google.com"
                 class="font-weight-bold text-white"
                 target="_blank"
-                >Creative Tim</a
+                >Google</a
               >
-              for a better web.
+              just for you.
             </div>
           </div>
           <div class="col-12 col-md-6">
@@ -103,15 +103,15 @@
             >
               <li class="nav-item">
                 <a
-                  href="https://www.creative-tim.com"
+                  href="https://www.google.com"
                   class="nav-link text-white"
                   target="_blank"
-                  >Creative Tim</a
+                  >Google</a
                 >
               </li>
               <li class="nav-item">
                 <a
-                  href="https://www.creative-tim.com/presentation"
+                  href="https://www.google.com/presentation"
                   class="nav-link text-white"
                   target="_blank"
                   >About Us</a
@@ -119,7 +119,7 @@
               </li>
               <li class="nav-item">
                 <a
-                  href="https://www.creative-tim.com/blog"
+                  href="https://www.google.com/blog"
                   class="nav-link text-white"
                   target="_blank"
                   >Blog</a
@@ -127,7 +127,7 @@
               </li>
               <li class="nav-item">
                 <a
-                  href="https://www.creative-tim.com/license"
+                  href="https://www.google.com/license"
                   class="nav-link pe-0 text-white"
                   target="_blank"
                   >License</a

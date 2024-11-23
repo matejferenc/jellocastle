@@ -8,15 +8,15 @@
             :class="$store.state.isRTL ? 'text-lg-end' : 'text-lg-start'"
           >
             ©
-            {{ new Date().getFullYear() }}, made with
+            {{ new Date().getFullYear() }}
             <i class="fa fa-heart"></i> by
             <a
-              href="https://www.creative-tim.com"
+              href="https://www.google.com"
               class="font-weight-bold"
               target="_blank"
-              >Creative Tim</a
+              >Google</a
             >
-            for a better web.
+            just for you.
           </div>
         </div>
         <div class="col-lg-6">
@@ -25,15 +25,15 @@
           >
             <li class="nav-item">
               <a
-                href="https://www.creative-tim.com"
+                href="https://www.google.com"
                 class="nav-link text-muted"
                 target="_blank"
-                >Creative Tim</a
+                >Google</a
               >
             </li>
             <li class="nav-item">
               <a
-                href="https://www.creative-tim.com/presentation"
+                href="https://www.google.com/presentation"
                 class="nav-link text-muted"
                 target="_blank"
                 >About Us</a
@@ -41,7 +41,7 @@
             </li>
             <li class="nav-item">
               <a
-                href="https://www.creative-tim.com/blog"
+                href="https://www.google.com/blog"
                 class="nav-link text-muted"
                 target="_blank"
                 >Blog</a
@@ -49,7 +49,7 @@
             </li>
             <li class="nav-item">
               <a
-                href="https://www.creative-tim.com/license"
+                href="https://www.google.com/license"
                 class="nav-link pe-0 text-muted"
                 target="_blank"
                 >License</a

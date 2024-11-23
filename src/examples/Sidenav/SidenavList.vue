@@ -43,6 +43,7 @@
           </template>
         </sidenav-collapse>
       </li>
+      <!-- TODO: odstranit vsetko "rtl"
       <li class="nav-item">
         <sidenav-collapse
           url="#"
@@ -58,6 +59,7 @@
           </template>
         </sidenav-collapse>
       </li>
+      -->
       <li class="nav-item">
         <sidenav-collapse
           url="#"
@@ -124,8 +126,8 @@
         <a
           class="btn mt-4 w-100"
           :class="`bg-gradient-${this.$store.state.color}`"
-          href="https://www.creative-tim.com/product/vue-material-dashboard-2-pro"
-          >Upgrade to pro</a
+          href="https://www.google.com"
+          >Go to Google</a
         >
       </div>
     </div>

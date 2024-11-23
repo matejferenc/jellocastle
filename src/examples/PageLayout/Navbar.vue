@@ -75,6 +75,7 @@
             </router-link>
           </li>
         </ul>
+        <!--
         <ul class="navbar-nav d-lg-block d-none">
           <li class="nav-item">
             <a
@@ -84,6 +85,7 @@
             >
           </li>
         </ul>
+        -->
       </div>
     </div>
   </nav>
